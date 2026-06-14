@@ -185,8 +185,4 @@ Through this project, I gained hands-on experience with:
 **Bhumi Gupta**
 
 - GitHub: https://github.com/Bhumigupta12345
-- LinkedIn: https://linkedin.com/in/bhumi-gupta-ba891b297
-
-## 📄 License
-
-This project is developed for educational and learning purposes.
+  
